@@ -5,7 +5,7 @@
  | UmaEra    | UmaEra     | UmaEra      | UmaEra           |
  | DevilWolf | Dhummy     | Dhummy      | Abby             |
  | Abby      | erica.zy   | storm       | DevilWolf        |
- | storm     | ShiTist    | Insane      | Low_             |
+ | storm     |            | Insane      | Low_             |
  | Isis      | Peixe      |             | Dede07           |
  | Peixe     | Insane     |             | Insane           |
  | Insane    |            |             |                  |
@@ -20,3 +20,4 @@ Especial Thanks to:
 - Isis      - ✨ui master✨
 - storm     - this project would be dead by now if this guy didn't apear in my life
 - Dede      - great motivation 🤷‍♀️ no explanation
+- Shitist   - thanks for your service, thank you for everything 🎁🌟
