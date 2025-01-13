@@ -1,7 +1,7 @@
 # Contrato de Licença do Utilizador Final (CLUF/EULA)
 
 --
->O aplicativo SimplyPrivate Browser (o "Software") é licenciado, não vendido, a si pela criadora da aplicação, UmaEra.
+>O aplicativo SimplyPrivate Browser (o "Software") é licenciado, não vendido, a si pela criadores da aplicação.
 >
 >A criadora da aplicação reserva todos os direitos não expressamente concedidos a si neste acordo.
 >
@@ -27,4 +27,7 @@
 
 5 - Contacto
 
->Se tiver alguma dúvida sobre este acordo, entre em contacto connosco através da nossa pagina GitHub em ***[NotYarazi/SimplyPrivate].***
+>Se tiver alguma dúvida sobre este acordo, entre em contacto connosco através do nosso e-mail "umaera.dev@gmail.com".
+
+
+[Editado a: 13 de janeiro 2025 - 01h22am]
