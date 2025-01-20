@@ -5,7 +5,7 @@
 <div align="center"><h1></h1></div>
 <div align="left">
 <h3>🌐: Use the internet in the simplest way <p><blockquote>View Count: [+160.000] | Download Count: [+54000] | Active Users: [+32.000~]</blockquote> </p></h3>
-<h3> <a href="https://github.com/NotYarazi/SimplyPrivate/releases/download/v3.6/simplyprivate_windows.exe" target="_blank">[Download Windows]</a> <a href="https://github.com/NotYarazi/SimplyPrivate/releases/download/v3.6/simplyprivate_linux.AppImage" target="_blank">[Download Linux]</a> - <a href="https://github.com/NotYarazi/SimplyPrivate/releases/v3.6/" target="_blank">[see stable version]</a> <a href="https://github.com/NotYarazi/SimplyPrivate/releases/latest" target="_blank">[see latest version]</a> </h3> 
+<h3> <a href="https://github.com/NotYarazi/SimplyPrivate/releases/download/v3.6/simplyprivate_windows.exe" target="_blank">[try for Windows]</a> <a href="https://github.com/NotYarazi/SimplyPrivate/releases/download/v3.6/simplyprivate_linux.AppImage" target="_blank">[try for Linux]</a> - 3.6 - <a href="https://github.com/NotYarazi/SimplyPrivate/releases/v3.6/" target="_blank">[see stable version]</a> <a href="https://github.com/NotYarazi/SimplyPrivate/releases/latest" target="_blank">[see latest version]</a> </h3> 
 <h4> ⚠: but before you install you have to read <a href="./EULA-EN.md" target="_blank">Eula.md</a> (it takes effect when you use the software)</h4>
 </div>
 <div align="center"><h1></h1></div>
